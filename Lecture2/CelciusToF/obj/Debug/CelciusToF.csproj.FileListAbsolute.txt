@@ -1,0 +1,10 @@
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.csproj.AssemblyReference.cache
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.Properties.Resources.resources
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.csproj.GenerateResource.cache
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.csproj.CoreCompileInputs.cache
+C:\Users\senah\source\repos\Lecture2\CelciusToF\bin\Debug\CelciusToF.exe.config
+C:\Users\senah\source\repos\Lecture2\CelciusToF\bin\Debug\CelciusToF.exe
+C:\Users\senah\source\repos\Lecture2\CelciusToF\bin\Debug\CelciusToF.pdb
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.exe
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelciusToF.pdb
+C:\Users\senah\source\repos\Lecture2\CelciusToF\obj\Debug\CelsiusToF.Form1.resources
