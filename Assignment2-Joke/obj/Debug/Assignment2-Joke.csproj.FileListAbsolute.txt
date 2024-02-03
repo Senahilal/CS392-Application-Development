@@ -1,0 +1,10 @@
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\bin\Debug\Assignment2-Joke.exe.config
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\bin\Debug\Assignment2-Joke.exe
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\bin\Debug\Assignment2-Joke.pdb
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2-Joke.csproj.AssemblyReference.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2_Joke.Form1.resources
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2_Joke.Properties.Resources.resources
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2-Joke.csproj.GenerateResource.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2-Joke.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2-Joke.exe
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-Joke\obj\Debug\Assignment2-Joke.pdb
