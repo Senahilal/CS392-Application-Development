@@ -1,0 +1,10 @@
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\bin\Debug\sealevelListBox.exe.config
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\bin\Debug\sealevelListBox.exe
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\bin\Debug\sealevelListBox.pdb
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.csproj.AssemblyReference.cache
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.Form1.resources
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.Properties.Resources.resources
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.csproj.GenerateResource.cache
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.csproj.CoreCompileInputs.cache
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.exe
+C:\Users\tanaydamani\source\repos\sealevelListBox\sealevelListBox\obj\Debug\sealevelListBox.pdb
