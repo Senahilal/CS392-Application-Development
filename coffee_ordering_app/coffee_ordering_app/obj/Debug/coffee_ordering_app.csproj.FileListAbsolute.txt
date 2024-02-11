@@ -1,0 +1,7 @@
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.exe.config
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.exe
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.pdb
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.csproj.AssemblyReference.cache
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.csproj.CoreCompileInputs.cache
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.exe
+C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.pdb
