@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sealevelListBox", "sealevelListBox\sealevelListBox.csproj", "{CE8BD81B-5F0F-4DAA-A222-029569C3E58F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{66D0DC9A-34A2-4BD3-8FE3-478285564FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE8BD81B-5F0F-4DAA-A222-029569C3E58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8BD81B-5F0F-4DAA-A222-029569C3E58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8BD81B-5F0F-4DAA-A222-029569C3E58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8BD81B-5F0F-4DAA-A222-029569C3E58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0DC9A-34A2-4BD3-8FE3-478285564FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0DC9A-34A2-4BD3-8FE3-478285564FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0DC9A-34A2-4BD3-8FE3-478285564FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0DC9A-34A2-4BD3-8FE3-478285564FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B382AD-9E16-4ED5-804B-2DF3633441F1}
+	EndGlobalSection
+EndGlobal

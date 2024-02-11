@@ -1,0 +1,10 @@
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\bin\Debug\Assignment2-headsortails.exe.config
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\bin\Debug\Assignment2-headsortails.exe
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\bin\Debug\Assignment2-headsortails.pdb
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2-headsortails.csproj.AssemblyReference.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2_headsortails.Form1.resources
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2_headsortails.Properties.Resources.resources
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2-headsortails.csproj.GenerateResource.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2-headsortails.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2-headsortails.exe
+\\Mac\Dropbox\BU\Spring 2024\CS392\Lecture2Project\Assignment2-headsortails\obj\Debug\Assignment2-headsortails.pdb
