@@ -1,1 +1,1 @@
-# Lecture2Project
+#CS392 - Intermediate Application Development in C#
