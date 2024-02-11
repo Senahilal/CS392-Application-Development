@@ -1,1 +1,1 @@
-#CS392 - Intermediate Application Development in C#
+CS392 - Intermediate Application Development in C#
