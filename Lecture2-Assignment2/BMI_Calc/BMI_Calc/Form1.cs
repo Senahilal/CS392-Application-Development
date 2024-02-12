@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace BMI_Calc
 {
@@ -15,16 +16,6 @@ namespace BMI_Calc
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
         }
 
         private double BMI_1(String F, String I, String P)
@@ -62,22 +53,72 @@ namespace BMI_Calc
                 bmi = BMI_2(txt1.Text, txt3.Text);
                 //txt4.Text = bmi.ToString();
             }
-            if (bmi < 18.5)
+
+
+            string health;
+
+            if (int.Parse(textBox1.Text) > 15)
             {
-                txt4.Text = "underweight";
-            }
-            else if (bmi >= 18.5 && bmi <= 24.9)
-            {
-                txt4.Text = "healthy weight";
-            }
-            else if (bmi >=25.0 && bmi <= 29.9)
-            {
-                txt4.Text = "overweight";
+                if (bmi < 18.5)
+                {
+                    health = "Underweight";
+                }
+                else if (bmi >= 25 && bmi < 25)
+                {
+                    health = "Healthy";
+                }
+                else if (bmi >= 25 && bmi < 30)
+                {
+                    health = "Overweight";
+                }
+                else
+                {
+                    health = "Obese";
+                }
             }
             else
             {
-                txt4.Text = "obese";
+                if (comboBox1.Text == "Male")
+                {
+                    if (bmi < 14.2)
+                    {
+                        health = "Underweight";
+                    }
+                    else if (bmi >= 14.2 && bmi < 19.4)
+                    {
+                        health = "Healthy";
+                    }
+                    else if (bmi >= 19.4 && bmi < 22)
+                    {
+                        health = "Overweight";
+                    }
+                    else
+                    {
+                        health = "Obese";
+                    }
+                }
+                else
+                {
+                    if (bmi < 14)
+                    {
+                        health = "Underweight";
+                    }
+                    else if (bmi >= 14 && bmi < 19.5)
+                    {
+                        health = "Healthy";
+                    }
+                    else if (bmi >= 19.5 && bmi < 22.5)
+                    {
+                        health = "Overweight";
+                    }
+                    else
+                    {
+                        health = "Obese";
+                    }
+                }
             }
+
+            label6.Text = "Your BMI is " + bmi + " / " + health;
         }
 
         private void button3_Click(object sender, EventArgs e)

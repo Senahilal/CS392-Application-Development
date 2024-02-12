@@ -7,4 +7,14 @@ C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Propertie
 C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.GenerateResource.cache
 C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.CoreCompileInputs.cache
 C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.exe
-C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.pdb
+C:\Users\tanaydamani\source\repos\BMI_Calc\BMI_Calc\obj\Debug\BMI_
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe.config
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.pdb
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.AssemblyReference.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Form1.resources
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Properties.Resources.resources
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.GenerateResource.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.CoreCompileInputs.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.exe
+Z:\Desktop\projects\CS392-Application-Development\Lecture2-Assignment2\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.pdb
