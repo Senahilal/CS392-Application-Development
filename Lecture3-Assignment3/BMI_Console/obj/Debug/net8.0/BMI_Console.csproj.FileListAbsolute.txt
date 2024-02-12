@@ -1,0 +1,15 @@
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\bin\Debug\net8.0\BMI_Console.exe
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\bin\Debug\net8.0\BMI_Console.deps.json
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\bin\Debug\net8.0\BMI_Console.runtimeconfig.json
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\bin\Debug\net8.0\BMI_Console.dll
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\bin\Debug\net8.0\BMI_Console.pdb
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.AssemblyInfoInputs.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.AssemblyInfo.cs
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.csproj.CoreCompileInputs.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.sourcelink.json
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.dll
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\refint\BMI_Console.dll
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.pdb
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\BMI_Console.genruntimeconfig.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\BMI_Console\obj\Debug\net8.0\ref\BMI_Console.dll
