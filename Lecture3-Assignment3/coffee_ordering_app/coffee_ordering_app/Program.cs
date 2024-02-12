@@ -11,61 +11,58 @@ namespace coffee_ordering_app
         static void Main(string[] args)
         {
             int coffeeNum;
-            bool b = true;
+            bool done = false;
             int price = 0;
             do
             {
-
-                Console.WriteLine("1:small , 2:medium, 3:large");
+                Console.WriteLine("Please select your coffee size: 1 - small, 2 - medium, 3 - large");
                 try
                 {
                     coffeeNum = int.Parse(Console.ReadLine());
-                    switch (coffeeNum)
-                    {
-                        case 1:
-                            Console.WriteLine("small");
-                            price += 1;
-                            break;
-                        case 2:
-                            Console.WriteLine("medium");
-                            price += 2;
-                            break;
-                        case 3:
-                            Console.WriteLine("large");
-                            price += 3;
-                            break;
-                        default:
-                            Console.WriteLine("wrong input");
-                            break;
-                    }
-                    Console.WriteLine("continue?");
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid input");
+                    continue;
+                }
+
+                switch (coffeeNum)
+                {
+                    case 1:
+                        price += 1;
+                        break;
+                    case 2:
+                        price += 2;
+                        break;
+                    case 3:
+                        price += 3;
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input");
+                        continue;
+                }
+
+                do
+                {
+                    Console.WriteLine("Do you want to buy another coffee: yes or no?");
                     String c = Console.ReadLine();
-                    c = c.ToLower();
-                    if (c.Equals("yes"))
+                    if(c.ToLower() == "no")
                     {
-                        b = true;
-                    }
-                    else if (c.Equals("no"))
-                    {
-                        Console.WriteLine("thank you for shopping");
-                        b = false;
+                        done = true;
                         break;
                     }
-                    else
+                    if(c.ToLower() == "yes")
                     {
-                        Console.WriteLine("yes or no only");
+                        break;
                     }
+                } while (true);
 
-                }
-                catch (OverflowException ex)
-                {
+            } while (!done);
 
-                }
-            } while (b);
+            Console.WriteLine("Thank you for shopping with us");
             Console.WriteLine("Total price is: " + price);
+            Console.WriteLine("Press any key to continue...");
             Console.ReadLine();
-
-            
         }
     }
 }

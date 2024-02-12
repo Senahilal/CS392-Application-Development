@@ -5,3 +5,10 @@ C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\co
 C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.csproj.CoreCompileInputs.cache
 C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.exe
 C:\Users\senah\source\repos\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.pdb
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.exe.config
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.exe
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\bin\Debug\coffee_ordering_app.pdb
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.csproj.AssemblyReference.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.csproj.CoreCompileInputs.cache
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.exe
+Z:\Desktop\projects\CS392-Application-Development\Lecture3-Assignment3\coffee_ordering_app\coffee_ordering_app\obj\Debug\coffee_ordering_app.pdb
