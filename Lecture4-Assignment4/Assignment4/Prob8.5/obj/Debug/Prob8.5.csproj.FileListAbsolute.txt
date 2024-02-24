@@ -1,0 +1,7 @@
+C:\Users\luling\source\repos\Assignment4\Prob8.5\bin\Debug\Prob8.5.exe.config
+C:\Users\luling\source\repos\Assignment4\Prob8.5\bin\Debug\Prob8.5.exe
+C:\Users\luling\source\repos\Assignment4\Prob8.5\bin\Debug\Prob8.5.pdb
+C:\Users\luling\source\repos\Assignment4\Prob8.5\obj\Debug\Prob8.5.csproj.AssemblyReference.cache
+C:\Users\luling\source\repos\Assignment4\Prob8.5\obj\Debug\Prob8.5.csproj.CoreCompileInputs.cache
+C:\Users\luling\source\repos\Assignment4\Prob8.5\obj\Debug\Prob8.5.exe
+C:\Users\luling\source\repos\Assignment4\Prob8.5\obj\Debug\Prob8.5.pdb
