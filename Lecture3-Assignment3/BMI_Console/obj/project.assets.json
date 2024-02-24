@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\myaclucas\\.nuget\\packages\\": {}
+    "C:\\Users\\huang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Desktop\\projects\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\BMI_Console.csproj",
-      "projectName": "BMI_Console",
-      "projectPath": "Z:\\Desktop\\projects\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\BMI_Console.csproj",
-      "packagesPath": "C:\\Users\\myaclucas\\.nuget\\packages\\",
-      "outputPath": "Z:\\Desktop\\projects\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\obj\\",
+      "projectUniqueName": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\Work2.csproj",
+      "projectName": "Work2",
+      "projectPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\Work2.csproj",
+      "packagesPath": "C:\\Users\\huang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\BMI_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\myaclucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

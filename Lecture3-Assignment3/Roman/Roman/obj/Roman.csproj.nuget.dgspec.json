@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luling\\source\\repos\\Roman\\Roman\\Roman.csproj": {}
+    "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\Roman\\Roman\\Roman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luling\\source\\repos\\Roman\\Roman\\Roman.csproj": {
+    "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\Roman\\Roman\\Roman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luling\\source\\repos\\Roman\\Roman\\Roman.csproj",
+        "projectUniqueName": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\Roman\\Roman\\Roman.csproj",
         "projectName": "Roman",
-        "projectPath": "C:\\Users\\luling\\source\\repos\\Roman\\Roman\\Roman.csproj",
-        "packagesPath": "C:\\Users\\luling\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luling\\source\\repos\\Roman\\Roman\\obj\\",
+        "projectPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\Roman\\Roman\\Roman.csproj",
+        "packagesPath": "C:\\Users\\huang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture3-Assignment3\\Roman\\Roman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luling\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

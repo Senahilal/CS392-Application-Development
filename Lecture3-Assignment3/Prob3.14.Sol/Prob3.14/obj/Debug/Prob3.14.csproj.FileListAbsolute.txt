@@ -8,3 +8,13 @@ C:\Users\senah\source\repos\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.csproj.Gene
 C:\Users\senah\source\repos\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.csproj.CoreCompileInputs.cache
 C:\Users\senah\source\repos\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.exe
 C:\Users\senah\source\repos\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\bin\Debug\Prob3.14.exe.config
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\bin\Debug\Prob3.14.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\bin\Debug\Prob3.14.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.csproj.AssemblyReference.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3._14.Form1.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3._14.Properties.Resources.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.csproj.GenerateResource.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.csproj.CoreCompileInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Prob3.14.Sol\Prob3.14\obj\Debug\Prob3.14.pdb

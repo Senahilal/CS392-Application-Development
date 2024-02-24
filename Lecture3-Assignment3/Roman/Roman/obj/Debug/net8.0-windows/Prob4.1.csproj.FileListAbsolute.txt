@@ -1,0 +1,17 @@
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\bin\Debug\net8.0-windows\Prob4.1.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\bin\Debug\net8.0-windows\Prob4.1.deps.json
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\bin\Debug\net8.0-windows\Prob4.1.runtimeconfig.json
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\bin\Debug\net8.0-windows\Prob4.1.dll
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\bin\Debug\net8.0-windows\Prob4.1.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Roman.Form1.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.csproj.GenerateResource.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.AssemblyInfoInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.AssemblyInfo.cs
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.csproj.CoreCompileInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.sourcelink.json
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.dll
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\refint\Prob4.1.dll
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\Prob4.1.genruntimeconfig.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Roman\Roman\obj\Debug\net8.0-windows\ref\Prob4.1.dll

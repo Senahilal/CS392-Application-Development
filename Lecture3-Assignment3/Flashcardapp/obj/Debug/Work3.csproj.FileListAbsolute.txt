@@ -1,0 +1,10 @@
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\bin\Debug\Flashcardapp.exe.config
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\bin\Debug\Flashcardapp.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\bin\Debug\Flashcardapp.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Work3.csproj.AssemblyReference.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Flashcardapp.Form1.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Flashcardapp.Properties.Resources.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Work3.csproj.GenerateResource.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Work3.csproj.CoreCompileInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Flashcardapp.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture3-Assignment3\Flashcardapp\obj\Debug\Flashcardapp.pdb
