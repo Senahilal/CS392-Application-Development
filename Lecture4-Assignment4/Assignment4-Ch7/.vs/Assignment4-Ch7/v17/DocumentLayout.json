@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CF29E0-A960-4651-A225-1697EA73F895}|Prob7.6\\Prob7.6.csproj|c:\\users\\senah\\onedrive\\desktop\\cs392-application-development\\lecture4-assignment4\\assignment4-ch7\\prob7.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CF29E0-A960-4651-A225-1697EA73F895}|Prob7.6\\Prob7.6.csproj|solutionrelative:prob7.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD89A88-C1BB-4EE3-B1FB-D298F39A7AB4}|Prob7.4\\Prob7.4.csproj|C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\prob7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD89A88-C1BB-4EE3-B1FB-D298F39A7AB4}|Prob7.4\\Prob7.4.csproj|solutionrelative:prob7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\Prob7.6\\Program.cs",
+              "RelativeDocumentMoniker": "Prob7.6\\Program.cs",
+              "ToolTip": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\Prob7.6\\Program.cs",
+              "RelativeToolTip": "Prob7.6\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T01:26:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\Prob7.4\\Program.cs",
+              "RelativeDocumentMoniker": "Prob7.4\\Program.cs",
+              "ToolTip": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4-Ch7\\Prob7.4\\Program.cs",
+              "RelativeToolTip": "Prob7.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T22:35:03.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
