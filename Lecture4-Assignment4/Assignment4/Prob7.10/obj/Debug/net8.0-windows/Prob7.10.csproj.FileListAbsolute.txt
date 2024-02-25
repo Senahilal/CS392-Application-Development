@@ -1,0 +1,17 @@
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\bin\Debug\net8.0-windows\Prob7.10.exe
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\bin\Debug\net8.0-windows\Prob7.10.deps.json
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\bin\Debug\net8.0-windows\Prob7.10.runtimeconfig.json
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\bin\Debug\net8.0-windows\Prob7.10.dll
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\bin\Debug\net8.0-windows\Prob7.10.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7._10.Form1.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7._10.Properties.Resources.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.csproj.GenerateResource.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.AssemblyInfoInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.AssemblyInfo.cs
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.csproj.CoreCompileInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.dll
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\refint\Prob7.10.dll
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\Prob7.10.genruntimeconfig.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture4-Assignment4\Assignment4\Prob7.10\obj\Debug\net8.0-windows\ref\Prob7.10.dll
