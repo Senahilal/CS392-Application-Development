@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj": {}
+    "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj": {
+    "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj",
+        "projectUniqueName": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj",
         "projectName": "Prob8.3",
-        "projectPath": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj",
-        "packagesPath": "C:\\Users\\Mason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\obj\\",
+        "projectPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\Prob8.3.csproj",
+        "packagesPath": "C:\\Users\\huang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huang\\Desktop\\CS392\\CS392-Application-Development\\Lecture4-Assignment4\\Assignment4\\Prob8.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

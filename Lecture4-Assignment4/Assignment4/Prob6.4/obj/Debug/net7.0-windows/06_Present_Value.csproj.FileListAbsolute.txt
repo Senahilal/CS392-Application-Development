@@ -1,0 +1,17 @@
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\bin\Debug\net7.0-windows\06_Present_Value.exe
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\bin\Debug\net7.0-windows\06_Present_Value.deps.json
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\bin\Debug\net7.0-windows\06_Present_Value.runtimeconfig.json
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\bin\Debug\net7.0-windows\06_Present_Value.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\bin\Debug\net7.0-windows\06_Present_Value.pdb
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.csproj.AssemblyReference.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\_06_Present_Value.Form1.resources
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.csproj.GenerateResource.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.AssemblyInfoInputs.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.AssemblyInfo.cs
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\refint\06_Present_Value.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.pdb
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\06_Present_Value.genruntimeconfig.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\06_Present_Value\06_Present_Value\obj\Debug\net7.0-windows\ref\06_Present_Value.dll
