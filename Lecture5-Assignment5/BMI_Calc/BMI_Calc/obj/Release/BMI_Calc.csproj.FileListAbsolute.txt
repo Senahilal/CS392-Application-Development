@@ -1,0 +1,12 @@
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Release\Database1.mdf
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Release\Database1_log.ldf
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Release\BMI_Calc.exe.config
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Release\BMI_Calc.exe
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Release\BMI_Calc.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.csproj.AssemblyReference.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.Form1.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.Properties.Resources.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.csproj.GenerateResource.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.exe
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Release\BMI_Calc.pdb

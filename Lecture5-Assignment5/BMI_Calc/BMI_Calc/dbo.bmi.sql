@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[EnhancedBMI]
+(
+	[Id] INT IDENTITY NOT NULL PRIMARY KEY,
+	[Name] VARCHAR(50) NULL,
+	[Gender] VARCHAR(20) NULL,
+	[Weight] INT NULL,
+	[Height] INT NULL,
+	[EnhancedBMI] FLOAT NULL,
+	[DateTimeStamp] DATETIME2 NULL
+)

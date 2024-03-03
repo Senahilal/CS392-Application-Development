@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD35AC-3207-4ACF-83CA-5B6624783D32}|BMI_Calc\\BMI_Calc.csproj|c:\\users\\mason\\workspace\\cs392-application-development\\lecture5-assignment5\\bmi_calc\\bmi_calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDD35AC-3207-4ACF-83CA-5B6624783D32}|BMI_Calc\\BMI_Calc.csproj|solutionrelative:bmi_calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDD35AC-3207-4ACF-83CA-5B6624783D32}|BMI_Calc\\BMI_Calc.csproj|C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\bmi_calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EDD35AC-3207-4ACF-83CA-5B6624783D32}|BMI_Calc\\BMI_Calc.csproj|solutionrelative:bmi_calc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\BMI_Calc\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI_Calc\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\BMI_Calc\\Form1.cs",
+              "RelativeToolTip": "BMI_Calc\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T23:32:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\BMI_Calc\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI_Calc\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mason\\workspace\\CS392-Application-Development\\Lecture5-Assignment5\\BMI_Calc\\BMI_Calc\\Form1.cs [Design]",
+              "RelativeToolTip": "BMI_Calc\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:47:12.643Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
