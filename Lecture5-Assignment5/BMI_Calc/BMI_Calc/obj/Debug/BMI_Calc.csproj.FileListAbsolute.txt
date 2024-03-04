@@ -30,3 +30,15 @@ C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_
 C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.CoreCompileInputs.cache
 C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.exe
 C:\Users\Mason\workspace\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\Database1.mdf
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\Database1_log.ldf
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe.config
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.AssemblyReference.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Form1.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Properties.Resources.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.GenerateResource.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.csproj.CoreCompileInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.pdb

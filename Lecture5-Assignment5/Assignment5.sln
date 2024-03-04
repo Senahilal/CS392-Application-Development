@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prob13.4", "Employee_Search\Prob13.4.csproj", "{0C65964E-06B8-4083-AD08-6C8CD5EF3DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supplemental1", "BMI_Calc\BMI_Calc\Supplemental1.csproj", "{6EDD35AC-3207-4ACF-83CA-5B6624783D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C65964E-06B8-4083-AD08-6C8CD5EF3DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C65964E-06B8-4083-AD08-6C8CD5EF3DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C65964E-06B8-4083-AD08-6C8CD5EF3DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C65964E-06B8-4083-AD08-6C8CD5EF3DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDD35AC-3207-4ACF-83CA-5B6624783D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDD35AC-3207-4ACF-83CA-5B6624783D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDD35AC-3207-4ACF-83CA-5B6624783D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDD35AC-3207-4ACF-83CA-5B6624783D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE76566-334F-464F-8072-237FB1D8F968}
+	EndGlobalSection
+EndGlobal

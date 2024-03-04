@@ -1,0 +1,25 @@
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\bin\Debug\Personnel.mdf
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\bin\Debug\Personnel_log.ldf
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\bin\Debug\Employee_Search.exe.config
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\bin\Debug\Employee_Search.exe
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\bin\Debug\Employee_Search.pdb
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.csproj.AssemblyReference.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.Form1.resources
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.Properties.Resources.resources
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.csproj.GenerateResource.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.exe
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 13\Employee_Search\Employee_Search\obj\Debug\Employee_Search.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\bin\Debug\Personnel.mdf
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\bin\Debug\Personnel_log.ldf
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\bin\Debug\Employee_Search.exe.config
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\bin\Debug\Employee_Search.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\bin\Debug\Employee_Search.pdb
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.csproj.AssemblyReference.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.Form1.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.Properties.Resources.resources
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.csproj.GenerateResource.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.csproj.CoreCompileInputs.cache
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.exe
+C:\Users\huang\Desktop\CS392\CS392-Application-Development\Lecture5-Assignment5\Employee_Search\obj\Debug\Employee_Search.pdb
