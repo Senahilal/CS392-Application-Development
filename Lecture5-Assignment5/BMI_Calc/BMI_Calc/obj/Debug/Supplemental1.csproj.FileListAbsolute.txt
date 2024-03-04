@@ -1,0 +1,12 @@
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\Database1.mdf
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\Database1_log.ldf
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe.config
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.exe
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\bin\Debug\BMI_Calc.pdb
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\Supplemental1.csproj.AssemblyReference.cache
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Form1.resources
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.Properties.Resources.resources
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\Supplemental1.csproj.GenerateResource.cache
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\Supplemental1.csproj.CoreCompileInputs.cache
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.exe
+C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture5-Assignment5\BMI_Calc\BMI_Calc\obj\Debug\BMI_Calc.pdb

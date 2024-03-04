@@ -1,0 +1,5 @@
+﻿INSERT INTO [dbo].[Employee] ([EmployeeID], [Name], [Position], [HourlyPayRate]) VALUES (1, N'Employee1', 'pos1', 0.00)
+INSERT INTO [dbo].[Employee] ([EmployeeID], [Name], [Position], [HourlyPayRate]) VALUES (2, N'Employee2', NULL, NULL)
+INSERT INTO [dbo].[Employee] ([EmployeeID], [Name], [Position], [HourlyPayRate]) VALUES (3, N'Employee3', NULL, NULL)
+INSERT INTO [dbo].[Employee] ([EmployeeID], [Name], [Position], [HourlyPayRate]) VALUES (4, N'Employee4', NULL, NULL)
+INSERT INTO [dbo].[Employee] ([EmployeeID], [Name], [Position], [HourlyPayRate]) VALUES (5, N'Employee5', NULL, NULL)
