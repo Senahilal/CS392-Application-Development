@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Prob6.9")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Prob6.4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3e1985106675df63af5d9a8b3c6f20f53971f45")]
-[assembly: System.Reflection.AssemblyProductAttribute("Prob6.9")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Prob6.9")]
+[assembly: System.Reflection.AssemblyProductAttribute("Prob6.4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Prob6.4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

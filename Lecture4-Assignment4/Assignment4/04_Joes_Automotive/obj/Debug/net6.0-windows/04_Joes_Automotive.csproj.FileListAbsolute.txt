@@ -1,0 +1,33 @@
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.exe
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.deps.json
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.runtimeconfig.json
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.pdb
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.csproj.AssemblyReference.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\_04_Joes_Automotive.Form1.resources
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.csproj.GenerateResource.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.AssemblyInfoInputs.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.AssemblyInfo.cs
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.csproj.CoreCompileInputs.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\refint\04_Joes_Automotive.dll
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.pdb
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.genruntimeconfig.cache
+D:\Documents\Books\C#\6th Edition\New Programming Projects\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\ref\04_Joes_Automotive.dll
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.exe
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.deps.json
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.runtimeconfig.json
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.dll
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\bin\Debug\net6.0-windows\04_Joes_Automotive.pdb
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\_04_Joes_Automotive.Form1.resources
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.csproj.GenerateResource.cache
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.AssemblyInfoInputs.cache
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.AssemblyInfo.cs
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.csproj.CoreCompileInputs.cache
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.dll
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\refint\04_Joes_Automotive.dll
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.pdb
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\04_Joes_Automotive.genruntimeconfig.cache
+C:\Users\huang\Downloads\cs392resource\cs392resource\Programming_Solutions\Chapter 06\04_Joes_Automotive\04_Joes_Automotive\obj\Debug\net6.0-windows\ref\04_Joes_Automotive.dll
