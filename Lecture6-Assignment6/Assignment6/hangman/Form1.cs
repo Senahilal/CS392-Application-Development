@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +19,7 @@ namespace hangman
         private StringBuilder displayWord;
 
         private int incorrectGuesses = 0;
+        private int lettersGuessed = 0;
         private readonly int maxIncorrectGuesses = 6;
 
         public Form1()
@@ -77,13 +80,35 @@ namespace hangman
 
         private void GetRandomWordAndHint()
         {
-            // SHOULD interact with DB here
-            string[] words = { "PEACH", "HORSE", "MONKEY" };
-            string[] hints = { "a fruit", "an animal", "an animal" };
-            Random r = new Random();
-            int index = r.Next(words.Length);
-            wordToGuess = words[index];
-            hint = hints[index];
+            // Connect to DB
+            SqlConnection conn = new SqlConnection($"Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename={Directory.GetParent(Environment.CurrentDirectory).Parent.FullName}\\Words.mdf;Integrated Security=True");
+            conn.Open();
+            
+            // Get all the words and hints from the DB
+            using (SqlCommand cmd = new SqlCommand("select Word,Hint FROM \"Table\"", conn))
+            {
+                try
+                {
+                    SqlDataReader reader = cmd.ExecuteReader();
+                    DataTable dt = new DataTable();
+                    dt.Load(reader);
+                    
+                    // Pick a random word from the DB results
+                    Random random = new Random();
+                    DataRow selected = dt.Rows[random.Next(0, dt.Rows.Count)];
+                    wordToGuess = selected["Word"].ToString().ToUpper();
+                    hint = selected["Hint"].ToString();
+
+                    reader.Close();
+                }
+                catch (SqlException ex)
+                {
+                    MessageBox.Show(ex.Message.ToString(), "SQL Error");
+                }
+
+            }
+            conn.Close();
+
             TxtHint.Text = hint;
             // Initialize the display word
             displayWord = new StringBuilder(wordToGuess.Length);
@@ -122,6 +147,12 @@ namespace hangman
                 if (found)
                 {
                     UpdateDisplayWord();
+                    lettersGuessed++;
+                    if (lettersGuessed == wordToGuess.Distinct().Count())
+                    {
+                        MessageBox.Show("You Win!");
+                        Application.Exit();
+                    }
                 }
                 else
                 {
@@ -131,7 +162,7 @@ namespace hangman
                     {
                         // Handle game over (all guesses used)
                         MessageBox.Show("Game over! The correct word was: " + wordToGuess);
-                        // Optionally, reset the game or close the form
+                        Application.Exit();
                     }
                 }
 
