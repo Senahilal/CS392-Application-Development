@@ -18,7 +18,6 @@ namespace hangman
 
         private int incorrectGuesses = 0;
         private readonly int maxIncorrectGuesses = 6;
-        private List<Image> hangmanImages = new List<Image>();
 
         public Form1()
         {
@@ -63,17 +62,17 @@ namespace hangman
             g.DrawLine(Pens.Black, headCenterX, baseLineY - 100, headCenterX - 20, baseLineY - 80); // Support
 
             if (incorrectGuesses > 0) // Head
-                g.DrawEllipse(Pens.Black, headCenterX - 10, baseLineY - 100, 20, 20);
+                g.DrawEllipse(Pens.Black, headCenterX - 30, baseLineY - 78, 20, 20);
             if (incorrectGuesses > 1) // Body
-                g.DrawLine(Pens.Black, headCenterX, baseLineY - 80, headCenterX, baseLineY - 50);
+                g.DrawLine(Pens.Black, headCenterX - 20, baseLineY - 58, headCenterX - 20, baseLineY - 28);
             if (incorrectGuesses > 2) // Left arm
-                g.DrawLine(Pens.Black, headCenterX, baseLineY - 75, headCenterX - 15, baseLineY - 65);
+                g.DrawLine(Pens.Black, headCenterX - 20, baseLineY - 53, headCenterX - 35, baseLineY - 43);
             if (incorrectGuesses > 3) // Right arm
-                g.DrawLine(Pens.Black, headCenterX, baseLineY - 75, headCenterX + 15, baseLineY - 65);
+                g.DrawLine(Pens.Black, headCenterX - 20, baseLineY - 53, headCenterX - 5, baseLineY - 43);
             if (incorrectGuesses > 4) // Left leg
-                g.DrawLine(Pens.Black, headCenterX, baseLineY - 50, headCenterX - 15, baseLineY - 35);
+                g.DrawLine(Pens.Black, headCenterX - 20, baseLineY - 28, headCenterX - 35, baseLineY - 13);
             if (incorrectGuesses > 5) // Right leg
-                g.DrawLine(Pens.Black, headCenterX, baseLineY - 50, headCenterX + 15, baseLineY - 35);
+                g.DrawLine(Pens.Black, headCenterX - 20, baseLineY - 28, headCenterX - 5, baseLineY - 13);
         }
 
         private void GetRandomWordAndHint()
@@ -138,34 +137,6 @@ namespace hangman
 
                 btn.Enabled = false;
             }
-        }
-
-
-        private void A_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button16_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        public int isInWord(String s, char c)
-        {
-            for (int i = 0; i < s.Length; i++)
-            {
-                if (s[i] == c)
-                {
-                    return i;
-                }
-            }
-            return -1;
         }
     }
 }

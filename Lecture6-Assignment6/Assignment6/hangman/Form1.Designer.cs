@@ -70,7 +70,6 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "A";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.A_Click);
             // 
             // button2
             // 
@@ -221,7 +220,6 @@
             this.P.TabIndex = 15;
             this.P.Text = "P";
             this.P.UseVisualStyleBackColor = true;
-            this.P.Click += new System.EventHandler(this.button16_Click);
             // 
             // button17
             // 
@@ -343,7 +341,6 @@
             this.label2.TabIndex = 50;
             this.label2.Text = "CHOOSE A LETTER";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // TxtHint
             // 

@@ -22,3 +22,15 @@ C:\Users\senah\OneDrive\Desktop\CS392-Application-Development\Lecture6-Assignmen
 \\Mac\Home\Documents\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.exe.config
 \\Mac\Home\Documents\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.exe
 \\Mac\Home\Documents\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\Words.mdf
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\Words_log.ldf
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.exe.config
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.exe
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\bin\Debug\hangman.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.csproj.AssemblyReference.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.Form1.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.Properties.Resources.resources
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.csproj.GenerateResource.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.exe
+C:\Users\Mason\workspace\CS392-Application-Development\Lecture6-Assignment6\Assignment6\hangman\obj\Debug\hangman.pdb
