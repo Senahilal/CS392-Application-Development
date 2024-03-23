@@ -104,32 +104,33 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(674, 75);
+            this.label1.Location = new System.Drawing.Point(495, 43);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 23);
+            this.label1.Size = new System.Drawing.Size(273, 92);
             this.label1.TabIndex = 6;
             this.label1.Text = "Result 1";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(689, 240);
+            this.label2.Location = new System.Drawing.Point(495, 195);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 16);
+            this.label2.Size = new System.Drawing.Size(273, 107);
             this.label2.TabIndex = 7;
             this.label2.Text = "Result 2";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(689, 425);
+            this.label3.Location = new System.Drawing.Point(495, 383);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(55, 16);
+            this.label3.Size = new System.Drawing.Size(273, 89);
             this.label3.TabIndex = 8;
             this.label3.Text = "Result 3";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -155,7 +156,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
