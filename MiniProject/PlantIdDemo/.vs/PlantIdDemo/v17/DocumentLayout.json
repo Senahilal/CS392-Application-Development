@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\MiniProject\\PlantIdDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|c:\\users\\senah\\onedrive\\desktop\\cs392-application-development\\miniproject\\plantiddemo\\plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|solutionrelative:plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\MiniProject\\PlantIdDemo\\plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|solutionrelative:plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|c:\\users\\senah\\onedrive\\desktop\\cs392-application-development\\miniproject\\plantiddemo\\plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618D863E-1721-4350-B41E-BDE0D3E924D9}|PlantIdDemo\\PlantIdDemo.csproj|solutionrelative:plantiddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\MiniProject\\PlantIdDemo\\PlantIdDemo\\Form1.cs",
               "RelativeDocumentMoniker": "PlantIdDemo\\Form1.cs",
               "ToolTip": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\MiniProject\\PlantIdDemo\\PlantIdDemo\\Form1.cs",
               "RelativeToolTip": "PlantIdDemo\\Form1.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAswGcAAAAUAAAA",
+              "ViewState": "AQIAAJIAAAAAAAAAAAD4v54AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T21:39:01.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\senah\\OneDrive\\Desktop\\CS392-Application-Development\\MiniProject\\PlantIdDemo\\PlantIdDemo\\Form1.cs",
               "RelativeDocumentMoniker": "PlantIdDemo\\Form1.cs",
