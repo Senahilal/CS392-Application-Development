@@ -1,0 +1,13 @@
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\bin\Debug\RecipeAPIDemo.exe.config
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\bin\Debug\RecipeAPIDemo.exe
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\bin\Debug\RecipeAPIDemo.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.csproj.AssemblyReference.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\SerpAPITest.Form1.resources
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.Properties.Resources.resources
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.csproj.GenerateResource.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAP.75B3ABF9.Up2Date
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.exe
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\RecipeAPIDemo\RecipeAPIDemo\obj\Debug\RecipeAPIDemo.pdb
