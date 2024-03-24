@@ -59,7 +59,7 @@ namespace SerpAPITest
             int resultCount = 0;
             foreach (var result in shoppingResults)
             {
-                if (resultCount >= 3) break; // Display only top 3 results
+                if (resultCount >= 7) break; // Display only top 3 results
 
                 string title = result["title"].ToString();
                 string price = result["price"].ToString();

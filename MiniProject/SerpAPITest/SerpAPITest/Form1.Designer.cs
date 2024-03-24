@@ -35,14 +35,14 @@
             // 
             // searchTextBox
             // 
-            this.searchTextBox.Location = new System.Drawing.Point(137, 60);
+            this.searchTextBox.Location = new System.Drawing.Point(244, 67);
             this.searchTextBox.Name = "searchTextBox";
             this.searchTextBox.Size = new System.Drawing.Size(213, 31);
             this.searchTextBox.TabIndex = 0;
             // 
             // searchButton
             // 
-            this.searchButton.Location = new System.Drawing.Point(463, 60);
+            this.searchButton.Location = new System.Drawing.Point(745, 60);
             this.searchButton.Name = "searchButton";
             this.searchButton.Size = new System.Drawing.Size(169, 45);
             this.searchButton.TabIndex = 1;
@@ -56,14 +56,14 @@
             this.resultsListBox.ItemHeight = 25;
             this.resultsListBox.Location = new System.Drawing.Point(50, 125);
             this.resultsListBox.Name = "resultsListBox";
-            this.resultsListBox.Size = new System.Drawing.Size(698, 304);
+            this.resultsListBox.Size = new System.Drawing.Size(1026, 254);
             this.resultsListBox.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1140, 436);
             this.Controls.Add(this.resultsListBox);
             this.Controls.Add(this.searchButton);
             this.Controls.Add(this.searchTextBox);
