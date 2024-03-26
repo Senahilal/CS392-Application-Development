@@ -1,0 +1,13 @@
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\bin\Debug\SerpAPITest.exe.config
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\bin\Debug\SerpAPITest.exe
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\bin\Debug\SerpAPITest.pdb
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.csproj.AssemblyReference.cache
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.Form1.resources
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.Properties.Resources.resources
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.csproj.GenerateResource.cache
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.csproj.CoreCompileInputs.cache
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.csproj.CopyComplete
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.exe
+C:\Users\tanaydamani\source\repos\SerpAPITest\SerpAPITest\obj\Debug\SerpAPITest.pdb

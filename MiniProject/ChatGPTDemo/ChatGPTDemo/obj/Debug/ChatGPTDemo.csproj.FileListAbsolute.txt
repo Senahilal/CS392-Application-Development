@@ -1,0 +1,13 @@
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\bin\Debug\ChatGPTDemo.exe.config
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\bin\Debug\ChatGPTDemo.exe
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\bin\Debug\ChatGPTDemo.pdb
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.csproj.AssemblyReference.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\SerpAPITest.Form1.resources
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.Properties.Resources.resources
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.csproj.GenerateResource.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTD.7B73BEF6.Up2Date
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.exe
+C:\Users\Mason\workspace\CS392-Application-Development\MiniProject\ChatGPTDemo\ChatGPTDemo\obj\Debug\ChatGPTDemo.pdb
