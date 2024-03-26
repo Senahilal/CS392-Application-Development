@@ -39,13 +39,13 @@ namespace SerpAPITest
                 // Parse the JSON response
                 JObject data = JObject.Parse(responseString);
 
-                // Assuming 'shopping_results' is part of your JSON response
+                
                 var shopping_results = data["shopping_results"];
 
-                // Update UI (ensure execution on UI thread)
+                // Update UI
                 UpdateResultsList(shopping_results);
             }
-            catch (Exception ex) // Consider catching more specific exceptions
+            catch (Exception ex) //  catching exceptions
             {
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
@@ -61,7 +61,7 @@ namespace SerpAPITest
             int resultCount = 0;
             foreach (var result in shoppingResults)
             {
-                if (resultCount >= 7) break; // Display only top 3 results
+                if (resultCount >= 7) break; // Display only top 7 results
 
                 string title = result["title"].ToString();
                 string price = result["price"].ToString();
@@ -96,12 +96,12 @@ namespace SerpAPITest
                 JObject data = JObject.Parse(responseString);
 
                 // Handle the search results
-                // Depending on the structure of eBay search results, you might need to adjust this
+                
                 var ebayResults = data["organic_results"];
                 Console.Write(ebayResults);
                 UpdateResultsList2(ebayResults);
             }
-            catch (Exception ex) // Consider catching more specific exceptions
+            catch (Exception ex) //catching exceptions
             {
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
