@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -40,8 +40,8 @@ namespace PlantIdDemo
             try
             {
                 string plantName = await IdentifyPlant(imagePath);
-                // MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
-                label1.Text = ExtractCommonNames(plantName);
+                MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
+                label1.Text = ExtractFirstPlantName(plantName); 
             }
             catch (Exception ex)
             {
@@ -59,7 +59,7 @@ namespace PlantIdDemo
 
             // Create the HttpClient and HttpRequestMessage
             var client = new HttpClient();
-            var request = new HttpRequestMessage(HttpMethod.Post, "https://plant.id/api/v3/identification?details=common_names");
+            var request = new HttpRequestMessage(HttpMethod.Post, "https://plant.id/api/v3/identification");
 
             // Add the API key to the request header
             request.Headers.Add("Api-Key", apiKey);
@@ -110,7 +110,8 @@ namespace PlantIdDemo
                 JArray commonNamesArray = (JArray)firstSuggestion["details"]?["common_names"];
                 if (commonNamesArray != null && commonNamesArray.Count > 0)
                 {
-                    return commonNamesArray[0]?.ToString();
+                    // Join all common names into a single string, separated by commas
+                    return string.Join(", ", commonNamesArray.Select(name => name.ToString()));
                 }
             }
 
@@ -160,8 +161,8 @@ namespace PlantIdDemo
             try
             {
                 string plantName = await IdentifyPlant(imagePath);
-                // MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
-                label2.Text = ExtractCommonNames(plantName);
+                MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
+                label2.Text = ExtractFirstPlantName(plantName);
             }
             catch (Exception ex)
             {
@@ -176,8 +177,8 @@ namespace PlantIdDemo
             try
             {
                 string plantName = await IdentifyPlant(imagePath);
-                // MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
-                label3.Text = ExtractCommonNames(plantName);
+                MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
+                label3.Text = ExtractFirstPlantName(plantName);
             }
             catch (Exception ex)
             {
