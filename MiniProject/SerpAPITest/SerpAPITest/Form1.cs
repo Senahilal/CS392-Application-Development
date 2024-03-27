@@ -16,8 +16,8 @@ namespace SerpAPITest
 {
     public partial class Form1 : Form
     {
-        private static readonly HttpClient client = new HttpClient();
-        private List<string> links = new List<string>();
+        private static readonly HttpClient client = new HttpClient(); // creating HTTTPS client
+        private List<string> links = new List<string>(); // creating list to store links of products
         public Form1()
         {
             InitializeComponent();
@@ -27,8 +27,9 @@ namespace SerpAPITest
         {
             searchButton.Enabled = false; // Prevents multiple clicks
 
-            string apiKey = "c59cba7a52e840ccf946dd9fe9ab07ef917055952b19c51cfa4e70dfc26c67b8";
-            string query = searchTextBox.Text;
+            string apiKey = "c59cba7a52e840ccf946dd9fe9ab07ef917055952b19c51cfa4e70dfc26c67b8"; //super secret API key
+            string query = searchTextBox.Text; //getting text from search box
+            // url for API endpoint to perform search
             string url = $"https://serpapi.com/search.json?engine=google_shopping&q={Uri.EscapeDataString(query)}&api_key={apiKey}";
 
             try
@@ -39,7 +40,7 @@ namespace SerpAPITest
                 // Parse the JSON response
                 JObject data = JObject.Parse(responseString);
 
-                
+                // get shopping results from JObject
                 var shopping_results = data["shopping_results"];
 
                 // Update UI
@@ -56,22 +57,23 @@ namespace SerpAPITest
         }
         private void UpdateResultsList(JToken shoppingResults)
         {
-            resultsListBox.Items.Clear();
+            resultsListBox.Items.Clear(); //clear list box
 
             int resultCount = 0;
+            // go over each result
             foreach (var result in shoppingResults)
             {
                 if (resultCount >= 7) break; // Display only top 7 results
 
-                string title = result["title"].ToString();
-                string price = result["price"].ToString();
-                string link = (string)result["link"];
+                string title = result["title"].ToString(); //gettitle of product
+                string price = result["price"].ToString(); //get display price
+                string link = (string)result["link"]; //get link
                 string source = result["source"].ToString();
 
-                resultsListBox.Items.Add($"Title: {title}, Price: {price}, Source: {source}");
+                resultsListBox.Items.Add($"Title: {title}, Price: {price}, Source: {source}"); 
 
                 resultCount++;
-                links.Add(link);
+                links.Add(link); //add link to list
             }
         }
 
@@ -79,12 +81,13 @@ namespace SerpAPITest
         {
             button1.Enabled = false; // Disable the button to prevent multiple clicks
 
-            string apiKey = "c59cba7a52e840ccf946dd9fe9ab07ef917055952b19c51cfa4e70dfc26c67b8";
-            string query = searchTextBox.Text;
+            string apiKey = "c59cba7a52e840ccf946dd9fe9ab07ef917055952b19c51cfa4e70dfc26c67b8"; //super secret API key
+            string query = searchTextBox.Text; // get search
             if (!query.ToLower().Contains("seed"))
             {
                 query = query + " seed";
             }
+            //url for api endpoint
             string url = $"https://serpapi.com/search.json?engine=ebay&_nkw={Uri.EscapeDataString(query)}&ebay_domain=ebay.com&api_key={apiKey}";
 
             try
@@ -96,9 +99,8 @@ namespace SerpAPITest
                 JObject data = JObject.Parse(responseString);
 
                 // Handle the search results
-                
                 var ebayResults = data["organic_results"];
-                Console.Write(ebayResults);
+                //update listbox
                 UpdateResultsList2(ebayResults);
             }
             catch (Exception ex) //catching exceptions
@@ -147,9 +149,12 @@ namespace SerpAPITest
 
         private void resultsListBox_SelectedIndexChanged(object sender, EventArgs e)
         {
+        // check if any index is selected and that the index of the selected product is less than the length of list link
             if (resultsListBox.SelectedIndex != -1 && resultsListBox.SelectedIndex < links.Count)
             {
+            //match selected index with link of selected indec product
                 string url = links[resultsListBox.SelectedIndex];
+                //open browser with link
                 System.Diagnostics.Process.Start("cmd", $"/c start microsoft-edge:{url}");
 
                 // System.Diagnostics.Process.Start("C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk", url); // This works for .NET Framework and .NET Core
