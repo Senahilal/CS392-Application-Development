@@ -21,7 +21,7 @@ namespace PlantIdDemo
 {
     public partial class Form1 : Form
     {
-        private const string ApiKey = "P5FcqhEN8MNUfl6uz7QhGlY7nfOCsavHM8H0J4b1tvDjmJaLEg"; // Replace with your API key
+        private const string ApiKey = "YourAPIKey"; // Replace with your API key
         private const string ApiEndpoint = "https://plant.id/api/v3/identification";
         
 
@@ -39,9 +39,10 @@ namespace PlantIdDemo
             string imagePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "basil-pl.png");
             try
             {
-                string plantName = await IdentifyPlant(imagePath);
-                // MessageBox.Show($"The plant in the image is: {plantName}", "Plant Identified");
-                label1.Text = ExtractCommonNames(plantName);
+                string plant = await IdentifyPlant(imagePath);
+                //The line below used for testing purposes to see the json format that IdentifyPlant returns
+                // MessageBox.Show($"The plant in the image is: {plant}", "Plant Identified");
+                label1.Text = ExtractCommonNames(plant);
             }
             catch (Exception ex)
             {
@@ -54,15 +55,13 @@ namespace PlantIdDemo
             // Convert image to base64
             string base64Image = ImageToBase64(imagePath);
 
-            // Your API key should be correctly placed here
-            string apiKey = "P5FcqhEN8MNUfl6uz7QhGlY7nfOCsavHM8H0J4b1tvDjmJaLEg";
 
             // Create the HttpClient and HttpRequestMessage
             var client = new HttpClient();
             var request = new HttpRequestMessage(HttpMethod.Post, "https://plant.id/api/v3/identification?details=common_names");
 
             // Add the API key to the request header
-            request.Headers.Add("Api-Key", apiKey);
+            request.Headers.Add("Api-Key", ApiKey);
 
             // Create the JSON payload with the base64 encoded image
             string jsonPayload = "{\"images\": [\"data:image/jpeg;base64," + base64Image + "\"]}";
@@ -118,22 +117,27 @@ namespace PlantIdDemo
         }
 
 
-        private string ExtractFirstPlantName(string jsonResponse)
-        {
-            JObject responseObject = JObject.Parse(jsonResponse);
-            JArray suggestions = (JArray)responseObject["result"]["classification"]["suggestions"];
+        //To get scientific name we need to use json response that we receive by using http request below:
+        //var request = new HttpRequestMessage(HttpMethod.Post, "https://plant.id/api/v3/identification");
 
-            if (suggestions != null && suggestions.Count > 0)
-            {
-                JObject firstSuggestion = (JObject)suggestions.First;
-                if (firstSuggestion["name"] != null)
-                {
-                    return firstSuggestion["name"].ToString();
-                }
-            }
+        //private string ExtractScientificPlantName(string jsonResponse)
+        //{
+        //    // Parse the JSON response to a JObject
+        //    JObject responseObject = JObject.Parse(jsonResponse);
 
-            return "Name not found";
-        }
+        //    JArray suggestions = (JArray)responseObject["result"]["classification"]["suggestions"];
+
+        //    if (suggestions != null && suggestions.Count > 0)
+        //    {
+        //        JObject firstSuggestion = (JObject)suggestions.First;
+        //        if (firstSuggestion["name"] != null)
+        //        {
+        //            return firstSuggestion["name"].ToString();
+        //        }
+        //    }
+
+        //    return "Name not found";
+        //}
 
 
 
