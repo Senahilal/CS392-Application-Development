@@ -30,11 +30,14 @@ namespace SerpAPITest
             searchButton.Enabled = false; // Prevents multiple clicks
 
             string apiKey = "key-goes-here";
+            // Get the search query from the text box
             string query = searchTextBox.Text;
+            // Create an HTTP request to the Chat GPT API
             using (var requestMessage = new HttpRequestMessage(HttpMethod.Post, $"https://api.openai.com/v1/chat/completions"))
             {
                 try
                 {
+                    // Build the JSON body of the request
                     var jsonBody = new
                     {
                         model = "gpt-3.5-turbo",
@@ -47,9 +50,9 @@ namespace SerpAPITest
 
                     // Serialize the JSON body
                     string jsonBodyString = JsonConvert.SerializeObject(jsonBody);
-
                     requestMessage.Content = new StringContent(jsonBodyString);
 
+                    // Set Authorization/Content-Type Headers
                     requestMessage.Headers.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
                     requestMessage.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
 
@@ -75,6 +78,7 @@ namespace SerpAPITest
         }
         private void UpdateResultsList(JToken results)
         {
+            // Get the response and put it into the result box, while fixing the line endings for windows
             string normalized = Regex.Replace(results["choices"][0]["message"]["content"].ToString(), @"\r\n|\n\r|\n|\r", "\r\n");
             resultBox.Text = normalized;
         }
