@@ -28,11 +28,14 @@ namespace SerpAPITest
             searchButton.Enabled = false; // Prevents multiple clicks
 
             string apiKey = "key-goes-here";
+            // Get the search query out of the text box
             string query = searchTextBox.Text;
+            // Create a new HTTP request to the Spoonacular API, and fill in the query parameters
             using (var requestMessage = new HttpRequestMessage(HttpMethod.Get, $"https://api.spoonacular.com/recipes/findByIngredients?&ingredients={Uri.EscapeDataString(query)}&number=3&sort=popularity"))
             {
                 try
                 {
+                    // Add the API key in a request header
                     requestMessage.Headers.Add("x-api-key", apiKey);
                     // Asynchronously call the API and await the response
                     HttpResponseMessage resp = await client.SendAsync(requestMessage);
@@ -56,8 +59,10 @@ namespace SerpAPITest
         }
         private void UpdateResultsList(JToken recipeResults)
         {
+            // Clear the results list
             resultsListBox.Items.Clear();
 
+            // Loop over the results and add each recipe to the results box
             int resultCount = 0;
             foreach (var result in recipeResults)
             {
